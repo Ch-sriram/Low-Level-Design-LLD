@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcabd812-5e25-4f8e-ba68-e0b78af1de41" name="Changes" comment="README Update for Access Modifiers Topic">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructorchaining/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructorchaining/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructorchaining/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructorchaining/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructorchaining/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.inheritance.Client">
+  <component name="RunManager" selected="Application.constructorchaining.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="accessmodifierscheck.Client" />
       <module name="LowLevelDesign" />
@@ -60,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="accessmodifiers.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="accessmodifiers.Client" />
+    <configuration name="constructorchaining.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructorchaining.Client" />
       <module name="LowLevelDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="accessmodifiers.*" />
+          <option name="PATTERN" value="constructorchaining.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.constructorchaining.Client" />
         <item itemvalue="Application.inheritance.Client" />
         <item itemvalue="Application.memorymodel.Client" />
         <item itemvalue="Application.constructors.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.accessmodifiers.Client" />
       </list>
     </recent_temporary>
   </component>
