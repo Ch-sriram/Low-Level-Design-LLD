@@ -1,7 +1,7 @@
 package constructorchaining;
 
 public class C extends B {
-    C() {
+    private C() {
         System.out.println("Constructor of C has been called.");
     }
 }
