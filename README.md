@@ -10,3 +10,5 @@ Concepts &amp; Code for Solving a Problem using Software Design Patterns &amp; L
 4. [Inheritance & Class Relationships: `extends`](https://github.com/Ch-sriram/Low-Level-Design-LLD/commit/1f49a481ded6d739c59a54a0664303a7fe491abc)
 5. [Constructor Chaining: Inheritance, Relationship & Object Creation](https://github.com/Ch-sriram/Low-Level-Design-LLD/commit/e19a468e7b02d959c7faab6707a8e3a9e3b264bf)
    - [Private Constructors in Constructor Chaining Generates Compilation Error](https://github.com/Ch-sriram/Low-Level-Design-LLD/commit/422b016dad3976ab1e1b30c662fb10901b241f00)
+   - [Parameterized Constructors & Errors Possible](https://github.com/Ch-sriram/Low-Level-Design-LLD/commit/e7439799496daf589eba6637c76b3392d053e804)
+   - [Parameterized Constructors & Possible Error Mitigation]()
